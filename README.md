@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansbeierlein
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Science at Hochschule Landshut
+- 🖥️ Working at Tekaris GmbH
 - 📫 How to reach me: Write a DM on Insta @ice_hub191
 
 <!---
